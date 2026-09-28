@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "4",
+    "username": "5",
     "password": "",
     "type": "offline"
   },
@@ -9,10 +9,10 @@
     "ip": "Black_Stranger.aternos.me",
     "port": 20919,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
-    "enabled": false,
+    "enabled": true,
     "x": -255.5,
     "y": 74,
     "z": -2400.5
@@ -74,8 +74,8 @@
     "enabled": false,
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
-      "connect": true,
-      "disconnect": true,
+      "connect": false,
+      "disconnect": false,
       "chat": false
     }
   },
