@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "5",
+    "username": "6",
     "password": "",
     "type": "offline"
   },
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": false,
-    "x": -255.5,
-    "y": 74,
-    "z": -2400.5
+    "x": -262.50,
+    "y": 71.00,
+    "z": -2.00
   },
   "utils": {
     "auto-auth": {
