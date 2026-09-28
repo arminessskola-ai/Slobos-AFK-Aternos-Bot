@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": false,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -255.5,
+    "y": 74,
+    "z": -2400.5
   },
   "utils": {
     "auto-auth": {
@@ -23,7 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": false
     },
     "chat-messages": {
